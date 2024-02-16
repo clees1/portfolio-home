@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How To</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-LCJMSeclDqMbEdCbV9g6Lz3bQGh6L5jg9qr2VLsgO1kAVtJ3t2LNlZdrilG6vVePn7h3I+Yhbw3YnGlZzZUB9w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+<h1>How to Create a Document</h1>
+
+<ol><li><p>Click <b>Create</b>.</p></li>
+    <li><p>Click <b>New</b>.</p></li>
+<li><p>Enter a <b>Name</b> for your document.</p></li>
+<li><p>Design your document.</p>
+    <h4> Type your text</h4>
+    <p>You can change:</p>
+    <ul>
+    <li><p><b>Font</b> - Font, font size, font color, bold, italicize, underline, strikethrough.</p></li>
+    <li><p><b>Style</b> - Headers, titles, subtitles.</p></li>
+    <li><p><b>Page Layout</b> - Margins, orientation, size, background.</p></li></ul>
+  
+    <h4>Add images</h4>
+   
+   <p>Click <b>Insert > Image</b>.</p>
+   <p>You can:</p>
+    <ul><li><p><b>Adjust Image Size</b> - Adjust the image dimensions and file size.</p></li>
+    <li><p><b>Adjust Brightness/Contrast/Sharpness</b> - Adjust image brightness, contrast, and sharpness.</p></li>
+    <li><p><b>Crop</b> - Crop the image.</p></li></ul>
+   
+   <h4>Add Tables</h4>
+   <ul><li><p>Click <b>Insert > Table</b>.</p></li>
+   <p>You can:
+    <ul><li><p><b>Adjust Table Size</b> - Adjust the number of rows, columns, and header rows.</p></li>
+        <li><p><b>Add/Remove Borders and Shading</b> - Add/remove borders and shading for cells, columns, and rows.</p></li>
+        <li><p><b>Merge/Split Cells</b> - Combine/divide cells within a table.</p></li>
+        <li><p><b>Import a Spreadsheet as a Table</b> - Import an .xlsx or .csv file as a table.</p></li></ul>
+
+   <h4>Customize Your Page Layout</h4>
+   <ul><li><p>Click <b>Design > Page Layout</b>.</p></li></ul>
+   <p>You can change:</p>
+   <ul><li><p><b>Margins</b> - Adjust margin measurements.</p></li>
+    <li><p><b>Orientation</b> - Change page orientation to <b>Landscape</b> or <b>Portrait</b>.</p></li>
+        <li><p><b>Size</b> - Change the paper size.</p></li>
+            <li><p><b>Background</b> - Add a background image.</p></li></ul>
+<li><p>Click <b>Save</b>.</p></li></ol>
+
+<div class="note">
+    <p>This is a note. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+</div>
+
+<div class="warning">
+    <p>This is a warning. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
